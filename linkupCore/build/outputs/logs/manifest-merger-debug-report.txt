@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml
+		INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml
+		INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml
+		INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml
+		INJECTED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\DiskK\Dev\zAndroid_Dev\Git\LinkupLearnInFun\linkupCore\src\main\AndroidManifest.xml:7:9-34

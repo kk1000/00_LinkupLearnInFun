@@ -1,0 +1,770 @@
+[
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_success_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\success_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n17.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n17.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_cancel.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\img_cancel.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_qzone.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\logo_qzone.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\xml_gamecfg.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\xml\\gamecfg.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_5.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_5.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_xian.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\xian.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_back_arrow2.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_back_arrow2.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\anim_zoom_out.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n3.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n3.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n16.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n16.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cancel.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\cancel.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_auth_title_back.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\auth_title_back.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_next.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\next.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_4.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_4.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_back_nor.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\btn_back_nor.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_up.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_select.mp3.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\select.mp3"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_input_bg_special_focus.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_input_bg_special_focus.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_win.ogg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\win.ogg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fail.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\fail.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pass_ok.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\pass_ok.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_locked.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\locked.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_smssdk_edittext_bg_selector.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\smssdk_edittext_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_sharesdk_icon.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_sharesdk_icon.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n4.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n4.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n5.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n5.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_topitem.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\topitem.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_diamond_reward.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\diamond_reward.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star_32.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\star_32.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_tencentweibo.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\logo_tencentweibo.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bronze.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\bronze.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n23.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n23.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n15.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n15.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_combo.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\combo.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_6.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_6.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gold.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\gold.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ok.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\ok.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n18.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n18.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_smssdk_btn_enable.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\smssdk_btn_enable.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n2.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n2.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_line.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\line.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_back_arrow.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_back_arrow.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_level_top.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\level_top.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_3.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_3.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_diamond.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\diamond.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\top.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_help_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\help_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_cancel_back.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\btn_cancel_back.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_edittext_back.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\edittext_back.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_input_bg_normal.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_input_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_fail.ogg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\fail.ogg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weibo_login.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\weibo_login.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_2.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_2.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_share.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\share.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_but_js.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\but_js.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_logo.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_share2.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\share2.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_but_srw.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\but_srw.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_silver.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\silver.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_dialog_bg.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_dialog_bg.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_auth_follow_cb_chd.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_search_icon.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_search_icon.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_1.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_1.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_smssdk_back_verify_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\smssdk_back_verify_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_8.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_8.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_7.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_7.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_input_bg_special_normal.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_input_bg_special_normal.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star2.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\star2.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_wechat.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\logo_wechat.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_xiu.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\xiu.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star3.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\star3.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_coins_reward.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\coins_reward.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_again.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\again.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_coins.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\coins.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_clear_search.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_clear_search.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music_d.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\music_d.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_smssdk_title_layout.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\smssdk_title_layout.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_auth_title_back.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_title_shadow.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\title_shadow.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_prompt.ogg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\prompt.ogg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n24.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n24.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n11.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n11.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sound_d.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\sound_d.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_bj.jpg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_bj.jpg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_cl_divider.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_cl_divider.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_default.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\icon_default.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_erase.wav.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\erase.wav"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_bj.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\button_bj.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_prompt.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\prompt.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_title_back.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\title_back.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_p3.jpg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\p3.jpg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star_off.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\star_off.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_refresh.mp3.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\refresh.mp3"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_smssdk_btn_disenable.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\smssdk_btn_disenable.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n10.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n10.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_like.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\like.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_smssdk_contact_detail_page.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\smssdk_contact_detail_page.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star_48.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\star_48.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_progress_style.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_task_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\task_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_rank.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\rank.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gray_point.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\gray_point.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_fail_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\fail_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_smssdk_progress_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\smssdk_progress_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qq_login.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\qq_login.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_p4.jpg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\p4.jpg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_up.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_level.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\level.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_10.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_10.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n12.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n12.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_dialog_back.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_dialog_back.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n8.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n8.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_title_div.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_p5.jpg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\p5.jpg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_confirm_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\confirm_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_wechatmoments.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\logo_wechatmoments.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_levelbg.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\levelbg.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_ratingstar.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\ratingstar.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n20.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n20.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kan.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\kan.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ssdk_oks_ptr_ptr.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_p2.jpg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\p2.jpg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_default_avatar.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_default_avatar.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lian.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\lian.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_obstacle.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\obstacle.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star1.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\star1.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_but_cg.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\but_cg.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_time_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\time_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_search.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_search.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_cp_default_avatar.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_cp_default_avatar.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n21.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n21.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_auth_follow_cb_unc.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sound.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\sound.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n7.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n7.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_star_on.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\star_on.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_activity_rank.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\activity_rank.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_smssdk_search_title_layout.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\smssdk_search_title_layout.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n13.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n13.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_p6.jpg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\p6.jpg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_activity_linkup.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\activity_linkup.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_activity_top.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\activity_top.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_welcomebg.mid.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\welcomebg.mid"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_smssdk_input_bg_focus.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\smssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_smssdk_contacts_listview_item.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\smssdk_contacts_listview_item.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_info_dialog.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\info_dialog.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n0.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n0.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pin.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\pin.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_page.ogg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\page.ogg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_point.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\white_point.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_bgmusic.mid.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\bgmusic.mid"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addtime.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-hdpi\\addtime.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_qq.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\logo_qq.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_but_xx.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\but_xx.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pass_fail.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\pass_fail.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pass.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\pass.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n19.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n19.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_but_trw.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\but_trw.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_coin.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\coin.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ssdk_back_arr.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_sinaweibo.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\logo_sinaweibo.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n22.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n22.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_vp_back.9.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-xhdpi\\share_vp_back.9.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_smssdk_contact_list_page.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\smssdk_contact_list_page.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n1.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n1.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_p1.jpg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\p1.jpg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_smssdk_corners_bg_nor.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\smssdk_corners_bg_nor.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\layout_smssdk_listview_title_layout.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\layout\\smssdk_listview_title_layout.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dialog_bg.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\dialog_bg.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_smssdk_dialog_btn_back.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\smssdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n6.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n6.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_readygo.ogg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\readygo.ogg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_smssdk_corners_bg.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\smssdk_corners_bg.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\raw_combo.ogg.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\raw\\combo.ogg"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_top_share.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\top_share.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_unlike.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\unlike.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_n14.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\n14.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable_smssdk_corners_bg_pre.xml.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable\\smssdk_corners_bg_pre.xml"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_success.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\success.png"
+    },
+    {
+        "merged": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_champion.png.flat",
+        "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\drawable-mdpi\\champion.png"
+    }
+]

@@ -1,0 +1,43 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.znv.linkup"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'x86', 'armeabi-v7a'
+            universalApk true
+        }
+    }
+}
+
+dependencies {
+    compile project(':linkupCore')
+    compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/mframework.jar')
+    compile files('libs/MiPush_SDK_Client_2_2_8_sdk.jar')
+    compile files('libs/ShareSDK-Core-2.3.11.jar')
+    compile files('libs/ShareSDK-QZone-2.3.11.jar')
+    compile files('libs/ShareSDK-SinaWeibo-2.3.11.jar')
+    compile files('libs/ShareSDK-Wechat-Core-2.3.11.jar')
+    compile files('libs/ShareSDK-Wechat-Moments-2.3.11.jar')
+    compile files('libs/SMSSDK-1.0.2.jar')
+    compile files('libs/volley.jar')
+    compile files('libs/xiaomi_sdk.jar')
+}

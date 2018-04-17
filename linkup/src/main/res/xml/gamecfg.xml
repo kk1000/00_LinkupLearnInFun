@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfg>  
+  <game gsound="1" bgmusic="1" prompt="3" refresh="3" addtime="3"/>
+  <mode name="闯关模式" > 
+    <rank name="宠物连连看" bg="3" gskin="pet"> 
+      <level name="1" ysize="8" xsize="7" gtime="40" galign="0" empty="6" obstacle="0" maptpl="8*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,1,-2,-2,-2,1,0;0,1,-2,-2,-2,1,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="2" ysize="8" xsize="7" gtime="50" galign="0" empty="0" obstacle="0"/>
+      <level name="3" ysize="8" xsize="7" gtime="50" galign="0" empty="3" obstacle="3" maptpl="8*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,1,-2,-2,-2,1,0;0,1,-1,-1,-1,1,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="4" ysize="8" xsize="7" gtime="60" galign="0" empty="0" obstacle="6" maptpl="8*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,1,-1,-1,-1,1,0;0,1,-1,-1,-1,1,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      
+      <level name="5" ysize="8" xsize="7" gtime="40" galign="1" empty="6" obstacle="0" maptpl="8*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,-2,-2,1,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,1,-2,-2,-2,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="6" ysize="8" xsize="7" gtime="50" galign="1" empty="0" obstacle="0"/>
+      <level name="7" ysize="8" xsize="7" gtime="50" galign="1" empty="2" obstacle="4" maptpl="8*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-1,-2,-1,1,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,1,-1,-2,-1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="8" ysize="8" xsize="7" gtime="60" galign="1" empty="0" obstacle="6" maptpl="8*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-1,-1,-1,1,0;0,1,1,1,1,1,0;0,1,1,1,1,1,0;0,1,-1,-1,-1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      
+      <level name="9" ysize="9" xsize="7" gtime="40" galign="2" empty="7" obstacle="0" maptpl="9*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,1,-2,-2,-2,1,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="10" ysize="9" xsize="7" gtime="50" galign="2" empty="1" obstacle="0"/>
+      <level name="11" ysize="9" xsize="7" gtime="50" galign="2" empty="4" obstacle="3" maptpl="9*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,1,-1,-1,-1,1,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="12" ysize="9" xsize="7" gtime="60" galign="2" empty="3" obstacle="4" maptpl="9*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-1,1,-1,1,0;0,1,1,1,1,1,0;0,1,-2,-2,-2,1,0;0,1,1,1,1,1,0;0,1,-1,1,-1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      
+      <level name="13" ysize="9" xsize="7" gtime="40" galign="3" empty="7" obstacle="0" maptpl="9*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,-2,-2,1,0;0,1,1,1,1,1,0;0,1,1,-2,1,1,0;0,1,1,1,1,1,0;0,1,-2,-2,-2,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="14" ysize="9" xsize="7" gtime="50" galign="3" empty="1" obstacle="0"/>
+      <level name="15" ysize="9" xsize="7" gtime="50" galign="3" empty="4" obstacle="3" maptpl="9*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,-1,-2,1,0;0,1,1,1,1,1,0;0,1,1,-1,1,1,0;0,1,1,1,1,1,0;0,1,-2,-1,-2,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="16" ysize="9" xsize="7" gtime="60" galign="3" empty="2" obstacle="5" maptpl="9*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-1,-2,-1,1,0;0,1,1,1,1,1,0;0,1,1,-1,1,1,0;0,1,1,1,1,1,0;0,1,-1,-2,-1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      
+      <level name="17" ysize="10" xsize="7" gtime="40" galign="4" empty="8" obstacle="0" maptpl="10*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="18" ysize="10" xsize="7" gtime="50" galign="4" empty="0" obstacle="0"/>
+      <level name="19" ysize="10" xsize="7" gtime="50" galign="4" empty="4" obstacle="4" maptpl="10*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,1,-1,1,-1,1,0;0,1,-1,1,-1,1,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="20" ysize="10" xsize="7" gtime="60" galign="4" empty="2" obstacle="6" maptpl="10*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-1,1,-1,1,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,-1,1,-1,1,0;0,1,1,1,1,1,0;0,1,-1,1,-1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+    
+      <level name="21" ysize="10" xsize="7" gtime="40" galign="5" empty="10" obstacle="0" maptpl="10*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,-2,1,-2,1,0;0,1,1,-2,1,1,0;0,1,1,-2,1,1,0;0,1,-2,1,-2,1,0;0,1,-2,1,-2,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="22" ysize="10" xsize="7" gtime="50" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="10" xsize="7" gtime="50" galign="5" empty="5" obstacle="5" maptpl="10*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-2,1,-2,1,0;0,1,-1,1,-1,1,0;0,1,1,-2,1,1,0;0,1,1,-1,1,1,0;0,1,-2,1,-2,1,0;0,1,-1,1,-1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+      <level name="24" ysize="10" xsize="7" gtime="60" galign="5" empty="4" obstacle="6" maptpl="10*7$0,0,0,0,0,0,0;0,1,1,1,1,1,0;0,1,-1,1,-1,1,0;0,1,-2,1,-2,1,0;0,1,1,-1,1,1,0;0,1,1,-1,1,1,0;0,1,-2,1,-2,1,0;0,1,-1,1,-1,1,0;0,1,1,1,1,1,0;0,0,0,0,0,0,0"/>
+    </rank>
+    <rank name="水果连连看" bg="1" gskin="fruit">
+      <level name="1" ysize="9" xsize="8" gtime="40" galign="0" empty="8" obstacle="0" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-2,-2,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="2" ysize="9" xsize="8" gtime="50" galign="0" empty="0" obstacle="0"/>
+      <level name="3" ysize="9" xsize="8" gtime="50" galign="0" empty="4" obstacle="4" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-2,-2,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="4" ysize="9" xsize="8" gtime="60" galign="0" empty="2" obstacle="6" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-1,-1,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      
+      <level name="5" ysize="9" xsize="8" gtime="40" galign="1" empty="8" obstacle="0" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="6" ysize="9" xsize="8" gtime="50" galign="1" empty="0" obstacle="0"/>
+      <level name="7" ysize="9" xsize="8" gtime="50" galign="1" empty="4" obstacle="4" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-1,1,1,-1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="8" ysize="9" xsize="8" gtime="60" galign="1" empty="2" obstacle="6" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+    
+      <level name="9" ysize="9" xsize="8" gtime="40" galign="2" empty="8" obstacle="0" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="10" ysize="9" xsize="8" gtime="50" galign="2" empty="0" obstacle="0"/>
+      <level name="11" ysize="9" xsize="8" gtime="50" galign="2" empty="4" obstacle="4" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="12" ysize="9" xsize="8" gtime="60" galign="2" empty="2" obstacle="6" maptpl="9*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+    
+      <level name="13" ysize="10" xsize="8" gtime="55" galign="3" empty="8" obstacle="0" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-2,-2,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-2,-2,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="14" ysize="10" xsize="8" gtime="65" galign="3" empty="0" obstacle="0"/>
+      <level name="15" ysize="10" xsize="8" gtime="65" galign="3" empty="4" obstacle="4" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-1,-1,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-1,-1,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="16" ysize="10" xsize="8" gtime="75" galign="3" empty="0" obstacle="8" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,-1,-1,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,-1,-1,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      
+      <level name="17" ysize="10" xsize="8" gtime="55" galign="4" empty="8" obstacle="0" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="18" ysize="10" xsize="8" gtime="65" galign="4" empty="0" obstacle="0"/>
+      <level name="19" ysize="10" xsize="8" gtime="65" galign="4" empty="4" obstacle="4" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="20" ysize="10" xsize="8" gtime="75" galign="4" empty="0" obstacle="8" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      
+      <level name="21" ysize="10" xsize="8" gtime="55" galign="5" empty="8" obstacle="0" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="22" ysize="10" xsize="8" gtime="65" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="10" xsize="8" gtime="65" galign="5" empty="4" obstacle="4" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="24" ysize="10" xsize="8" gtime="75" galign="5" empty="0" obstacle="8" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+    </rank>
+    <rank name="动物连连看" bg="2" gskin="fish">  
+      <level name="1" ysize="10" xsize="8" gtime="50" galign="0" empty="8" obstacle="0" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="2" ysize="10" xsize="8" gtime="60" galign="0" empty="0" obstacle="0"/>
+      <level name="3" ysize="10" xsize="8" gtime="60" galign="0" empty="4" obstacle="4" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-1,1,0;0,1,-2,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-2,1,0;0,1,-1,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="4" ysize="10" xsize="8" gtime="70" galign="0" empty="0" obstacle="8" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      
+      <level name="5" ysize="10" xsize="8" gtime="50" galign="1" empty="10" obstacle="0" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,-2,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,-2,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="6" ysize="10" xsize="8" gtime="60" galign="1" empty="0" obstacle="0"/>
+      <level name="7" ysize="10" xsize="8" gtime="60" galign="1" empty="5" obstacle="5" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,-2,1,-1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-2,1,0;0,1,-1,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,-1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="8" ysize="10" xsize="8" gtime="70" galign="1" empty="4" obstacle="6" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-1,-1,1,-1,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,-1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      
+      <level name="9" ysize="10" xsize="8" gtime="50" galign="2" empty="12" obstacle="0" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-2,-2,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="10" ysize="10" xsize="8" gtime="60" galign="2" empty="0" obstacle="0"/>
+      <level name="11" ysize="10" xsize="8" gtime="60" galign="2" empty="6" obstacle="6" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-1,1,1,-1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-1,-1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="12" ysize="10" xsize="8" gtime="70" galign="2" empty="4" obstacle="8" maptpl="10*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,-1,-1,1,1,0;0,1,1,-1,-1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      
+      <level name="13" ysize="11" xsize="8" gtime="50" galign="3" empty="12" obstacle="0" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-2,-2,-2,1,0;0,1,1,1,1,1,1,0;0,1,-2,-2,-2,-2,1,0;0,1,1,1,1,1,1,0;0,1,-2,-2,-2,-2,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="14" ysize="11" xsize="8" gtime="60" galign="3" empty="0" obstacle="0"/>
+      <level name="15" ysize="11" xsize="8" gtime="60" galign="3" empty="6" obstacle="6" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-1,-2,-1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-1,-2,-1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-1,-2,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="16" ysize="11" xsize="8" gtime="70" galign="3" empty="6" obstacle="6" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,-2,-2,-1,1,0;0,1,1,1,1,1,1,0;0,1,-2,-2,-2,-2,1,0;0,1,1,1,1,1,1,0;0,1,-1,-1,-1,-1,1,0;0,1,1,1,1,1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      
+      <level name="17" ysize="11" xsize="8" gtime="50" galign="4" empty="12" obstacle="0" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,-2,-2,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,-2,-2,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="18" ysize="11" xsize="8" gtime="60" galign="4" empty="0" obstacle="0"/>
+      <level name="19" ysize="11" xsize="8" gtime="60" galign="4" empty="6" obstacle="6" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,-1,-1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,-2,-2,1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="20" ysize="11" xsize="8" gtime="70" galign="4" empty="4" obstacle="8" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,-2,-2,1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,-2,-2,1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      
+      <level name="21" ysize="11" xsize="8" gtime="50" galign="5" empty="12" obstacle="0" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,-2,1,1,-2,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="22" ysize="11" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="11" xsize="8" gtime="60" galign="5" empty="6" obstacle="6" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-1,-1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-2,1,1,-2,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+      <level name="24" ysize="11" xsize="8" gtime="70" galign="5" empty="6" obstacle="6" maptpl="11*8$0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,-2,-2,1,1,0;0,1,1,1,1,1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,-1,1,1,-1,1,0;0,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0"/>
+    </rank>
+    <rank name="经典连连看" bg="0" gskin="classic">
+      <level name="1" ysize="10" xsize="9" gtime="60" galign="0" empty="12" obstacle="0" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="2" ysize="10" xsize="9" gtime="70" galign="0" empty="0" obstacle="0"/>
+      <level name="3" ysize="10" xsize="9" gtime="70" galign="0" empty="6" obstacle="6" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-1,1,-2,1,0;0,1,-2,1,-1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="4" ysize="10" xsize="9" gtime="80" galign="0" empty="6" obstacle="6" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="5" ysize="10" xsize="9" gtime="60" galign="1" empty="12" obstacle="0" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-2,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-2,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="6" ysize="10" xsize="9" gtime="70" galign="1" empty="0" obstacle="0"/>
+      <level name="7" ysize="10" xsize="9" gtime="70" galign="1" empty="6" obstacle="6" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-1,-2,-1,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="8" ysize="10" xsize="9" gtime="80" galign="1" empty="6" obstacle="6" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="9" ysize="10" xsize="9" gtime="60" galign="2" empty="12" obstacle="0" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="10" ysize="10" xsize="9" gtime="70" galign="2" empty="0" obstacle="0"/>
+      <level name="11" ysize="10" xsize="9" gtime="70" galign="2" empty="6" obstacle="6" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,-1,1,-1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="12" ysize="10" xsize="9" gtime="80" galign="2" empty="4" obstacle="8" maptpl="10*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="13" ysize="11" xsize="9" gtime="60" galign="3" empty="13" obstacle="0" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,-2,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="14" ysize="11" xsize="9" gtime="70" galign="3" empty="1" obstacle="0"/>
+      <level name="15" ysize="11" xsize="9" gtime="70" galign="3" empty="7" obstacle="6" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,-2,1,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="16" ysize="11" xsize="9" gtime="80" galign="3" empty="5" obstacle="8" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,-2,1,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="17" ysize="11" xsize="9" gtime="60" galign="4" empty="13" obstacle="0" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="18" ysize="11" xsize="9" gtime="70" galign="4" empty="1" obstacle="0"/>
+      <level name="19" ysize="11" xsize="9" gtime="70" galign="4" empty="7" obstacle="6" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="20" ysize="11" xsize="9" gtime="80" galign="4" empty="6" obstacle="7" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="21" ysize="11" xsize="9" gtime="60" galign="5" empty="13" obstacle="0" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="22" ysize="11" xsize="9" gtime="70" galign="5" empty="1" obstacle="0"/>
+      <level name="23" ysize="11" xsize="9" gtime="70" galign="5" empty="7" obstacle="6" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="24" ysize="11" xsize="9" gtime="80" galign="5" empty="6" obstacle="7" maptpl="11*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,-1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+    </rank>
+    <rank name="农场连连看" bg="4" gskin="farm">
+      <level name="1" ysize="12" xsize="9" gtime="70" galign="0" empty="16" obstacle="0" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,-2,1,1,1,1,0;0,1,1,1,1,-2,-2,1,0;0,1,-2,-2,1,1,1,1,0;0,1,1,1,1,-2,-2,1,0;0,1,-2,-2,1,1,1,1,0;0,1,1,1,1,-2,-2,1,0;0,1,-2,-2,1,1,1,1,0;0,1,1,1,1,-2,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="2" ysize="12" xsize="9" gtime="80" galign="0" empty="0" obstacle="0"/>
+      <level name="3" ysize="12" xsize="9" gtime="80" galign="0" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,-1,1,1,1,1,0;0,1,1,1,1,-2,-1,1,0;0,1,-2,-1,1,1,1,1,0;0,1,1,1,1,-2,-1,1,0;0,1,-2,-1,1,1,1,1,0;0,1,1,1,1,-2,-1,1,0;0,1,-2,-1,1,1,1,1,0;0,1,1,1,1,-2,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="4" ysize="12" xsize="9" gtime="90" galign="0" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,-2,1,1,1,1,0;0,1,1,1,1,-1,-1,1,0;0,1,-1,-2,1,1,1,1,0;0,1,1,1,1,-1,-2,1,0;0,1,-2,-2,1,1,1,1,0;0,1,1,1,1,-1,-1,1,0;0,1,-2,-2,1,1,1,1,0;0,1,1,1,1,-1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="5" ysize="12" xsize="9" gtime="70" galign="1" empty="16" obstacle="0" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="6" ysize="12" xsize="9" gtime="80" galign="1" empty="0" obstacle="0"/>
+      <level name="7" ysize="12" xsize="9" gtime="80" galign="1" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,-1,1,-1,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="8" ysize="12" xsize="9" gtime="90" galign="1" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-1,1,-2,1,0;0,1,-2,1,-1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,1,-1,1,1,0;0,1,1,-2,1,-1,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="9" ysize="12" xsize="9" gtime="70" galign="2" empty="16" obstacle="0" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,-2,1,-2,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,-2,1,-2,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="10" ysize="12" xsize="9" gtime="80" galign="2" empty="0" obstacle="0"/>
+      <level name="11" ysize="12" xsize="9" gtime="80" galign="2" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,-2,1,-1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,-1,1,-2,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="12" ysize="12" xsize="9" gtime="90" galign="2" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-1,1,0;0,1,-2,1,1,1,-1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,-1,1,1,1,-2,1,0;0,1,-1,1,1,1,-2,1,0;0,1,1,-1,1,-1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+    
+      <level name="13" ysize="12" xsize="9" gtime="70" galign="3" empty="16" obstacle="0" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-2,-2,1,1,0;0,1,1,-2,-2,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-2,-2,1,1,0;0,1,1,-2,-2,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="14" ysize="12" xsize="9" gtime="80" galign="3" empty="0" obstacle="0"/>
+      <level name="15" ysize="12" xsize="9" gtime="80" galign="3" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-2,-2,1,1,0;0,1,1,-1,-1,-1,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-2,-2,1,1,0;0,1,1,-1,-1,-1,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="16" ysize="12" xsize="9" gtime="90" galign="3" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,-1,-2,1,1,0;0,1,1,-2,-1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-1,-2,-1,1,1,0;0,1,1,-1,-2,-1,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="17" ysize="12" xsize="9" gtime="70" galign="4" empty="16" obstacle="0" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="18" ysize="12" xsize="9" gtime="80" galign="4" empty="0" obstacle="0"/>
+      <level name="19" ysize="12" xsize="9" gtime="80" galign="4" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,-1,1,-1,1,-1,1,0;0,1,-2,1,-2,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-1,1,-1,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="20" ysize="12" xsize="9" gtime="90" galign="4" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,-1,1,-2,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      
+      <level name="21" ysize="12" xsize="9" gtime="70" galign="5" empty="16" obstacle="0" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,-2,1,-2,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="22" ysize="12" xsize="9" gtime="80" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="12" xsize="9" gtime="80" galign="5" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,1,-1,1,-1,1,1,0;0,1,1,-2,1,-2,1,1,0;0,1,-1,1,1,1,-1,1,0;0,1,-2,1,1,1,-2,1,0;0,1,-1,1,1,1,-1,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+      <level name="24" ysize="12" xsize="9" gtime="90" galign="5" empty="8" obstacle="8" maptpl="12*9$0,0,0,0,0,0,0,0,0;0,1,1,1,1,1,1,1,0;0,1,-2,1,1,1,-1,1,0;0,1,-1,1,1,1,-2,1,0;0,1,-2,1,1,1,-1,1,0;0,1,1,-1,1,-2,1,1,0;0,1,1,-2,1,-1,1,1,0;0,1,-1,1,1,1,-2,1,0;0,1,-2,1,1,1,-1,1,0;0,1,-1,1,1,1,-2,1,0;0,1,1,1,1,1,1,1,0;0,0,0,0,0,0,0,0,0"/>
+    </rank>
+  </mode>
+  <mode name="计时模式">
+    <rank name="计时初级" bg="2" gskin="fish" > 
+      <level name="1" ysize="8" xsize="7" gtime="60" galign="5" empty="10" obstacle="0"/>
+      <level name="2" ysize="8" xsize="7" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="8" xsize="7" gtime="60" galign="5" empty="8" obstacle="2"/>
+      <level name="4" ysize="8" xsize="7" gtime="60" galign="5" empty="6" obstacle="4"/>
+      
+      <level name="5" ysize="8" xsize="7" gtime="60" galign="5" empty="6" obstacle="0"/>
+      <level name="6" ysize="8" xsize="7" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="8" xsize="7" gtime="60" galign="5" empty="4" obstacle="2"/>
+      <level name="8" ysize="8" xsize="7" gtime="60" galign="5" empty="2" obstacle="4"/>
+      
+      <level name="9" ysize="9" xsize="7" gtime="60" galign="5" empty="11" obstacle="0"/>
+      <level name="10" ysize="9" xsize="7" gtime="60" galign="5" empty="1" obstacle="0"/>
+      <level name="11" ysize="9" xsize="7" gtime="60" galign="5" empty="8" obstacle="3"/>
+      <level name="12" ysize="9" xsize="7" gtime="60" galign="5" empty="6" obstacle="5"/>
+      
+      <level name="13" ysize="9" xsize="7" gtime="60" galign="5" empty="7" obstacle="0"/>
+      <level name="14" ysize="9" xsize="7" gtime="60" galign="5" empty="0" obstacle="1"/>
+      <level name="15" ysize="9" xsize="7" gtime="60" galign="5" empty="4" obstacle="3"/>
+      <level name="16" ysize="9" xsize="7" gtime="60" galign="5" empty="2" obstacle="5"/>
+      
+      <level name="17" ysize="10" xsize="7" gtime="60" galign="5" empty="12" obstacle="0"/>
+      <level name="18" ysize="10" xsize="7" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="10" xsize="7" gtime="60" galign="5" empty="8" obstacle="4"/>
+      <level name="20" ysize="10" xsize="7" gtime="60" galign="5" empty="6" obstacle="6"/>
+      
+      <level name="21" ysize="10" xsize="7" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="10" xsize="7" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="10" xsize="7" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="10" xsize="7" gtime="60" galign="5" empty="2" obstacle="6"/>
+    </rank>
+    <rank name="计时中级" bg="0" gskin="classic" > 
+      <level name="1" ysize="9" xsize="8" gtime="60" galign="5" empty="12" obstacle="0"/>
+      <level name="2" ysize="9" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="9" xsize="8" gtime="60" galign="5" empty="8" obstacle="4"/>
+      <level name="4" ysize="9" xsize="8" gtime="60" galign="5" empty="6" obstacle="6"/>
+      
+      <level name="5" ysize="9" xsize="8" gtime="60" galign="5" empty="6" obstacle="0"/>
+      <level name="6" ysize="9" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="9" xsize="8" gtime="60" galign="5" empty="3" obstacle="3"/>
+      <level name="8" ysize="9" xsize="8" gtime="60" galign="5" empty="0" obstacle="6"/>
+      
+      <level name="9" ysize="10" xsize="8" gtime="60" galign="5" empty="16" obstacle="0"/>
+      <level name="10" ysize="10" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="11" ysize="10" xsize="8" gtime="60" galign="5" empty="12" obstacle="4"/>
+      <level name="12" ysize="10" xsize="8" gtime="60" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="13" ysize="10" xsize="8" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="14" ysize="10" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="15" ysize="10" xsize="8" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="16" ysize="10" xsize="8" gtime="60" galign="5" empty="2" obstacle="6"/>
+      
+      <level name="17" ysize="11" xsize="8" gtime="60" galign="5" empty="16" obstacle="0"/>
+      <level name="18" ysize="11" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="11" xsize="8" gtime="60" galign="5" empty="12" obstacle="4"/>
+      <level name="20" ysize="11" xsize="8" gtime="60" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="21" ysize="11" xsize="8" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="11" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="11" xsize="8" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="11" xsize="8" gtime="60" galign="5" empty="2" obstacle="6"/>
+    </rank>
+    <rank name="计时高级" bg="4" gskin="farm" > 
+      <level name="1" ysize="10" xsize="9" gtime="60" galign="5" empty="16" obstacle="0"/>
+      <level name="2" ysize="10" xsize="9" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="10" xsize="9" gtime="60" galign="5" empty="12" obstacle="4"/>
+      <level name="4" ysize="10" xsize="9" gtime="60" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="5" ysize="10" xsize="9" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="6" ysize="10" xsize="9" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="10" xsize="9" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="8" ysize="10" xsize="9" gtime="60" galign="5" empty="2" obstacle="6"/>
+      
+      <level name="9" ysize="11" xsize="9" gtime="60" galign="5" empty="15" obstacle="0"/>
+      <level name="10" ysize="11" xsize="9" gtime="60" galign="5" empty="1" obstacle="0"/>
+      <level name="11" ysize="11" xsize="9" gtime="60" galign="5" empty="10" obstacle="5"/>
+      <level name="12" ysize="11" xsize="9" gtime="60" galign="5" empty="8" obstacle="7"/>
+      
+      <level name="13" ysize="11" xsize="9" gtime="60" galign="5" empty="9" obstacle="0"/>
+      <level name="14" ysize="11" xsize="9" gtime="60" galign="5" empty="0" obstacle="1"/>
+      <level name="15" ysize="11" xsize="9" gtime="60" galign="5" empty="5" obstacle="4"/>
+      <level name="16" ysize="11" xsize="9" gtime="60" galign="5" empty="3" obstacle="6"/>
+      
+      <level name="17" ysize="12" xsize="9" gtime="60" galign="5" empty="16" obstacle="0"/>
+      <level name="18" ysize="12" xsize="9" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="12" xsize="9" gtime="60" galign="5" empty="10" obstacle="6"/>
+      <level name="20" ysize="12" xsize="9" gtime="60" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="21" ysize="12" xsize="9" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="12" xsize="9" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="12" xsize="9" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="12" xsize="9" gtime="60" galign="5" empty="2" obstacle="6"/>
+    </rank>
+  </mode>
+  <mode name="积分任务">
+    <rank name="简单任务" bg="0" gskin="classic">
+      <level name="1" ysize="8" xsize="7" gtime="60" galign="5" empty="10" obstacle="0"/>
+      <level name="2" ysize="8" xsize="7" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="8" xsize="7" gtime="60" galign="5" empty="8" obstacle="2"/>
+      <level name="4" ysize="8" xsize="7" gtime="60" galign="5" empty="6" obstacle="4"/>
+      
+      <level name="5" ysize="8" xsize="7" gtime="60" galign="5" empty="6" obstacle="0"/>
+      <level name="6" ysize="8" xsize="7" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="8" xsize="7" gtime="60" galign="5" empty="4" obstacle="2"/>
+      <level name="8" ysize="8" xsize="7" gtime="60" galign="5" empty="2" obstacle="4"/>
+      
+      <level name="9" ysize="9" xsize="7" gtime="60" galign="5" empty="11" obstacle="0"/>
+      <level name="10" ysize="9" xsize="7" gtime="60" galign="5" empty="1" obstacle="0"/>
+      <level name="11" ysize="9" xsize="7" gtime="60" galign="5" empty="8" obstacle="3"/>
+      <level name="12" ysize="9" xsize="7" gtime="60" galign="5" empty="6" obstacle="5"/>
+      
+      <level name="13" ysize="9" xsize="7" gtime="60" galign="5" empty="7" obstacle="0"/>
+      <level name="14" ysize="9" xsize="7" gtime="60" galign="5" empty="0" obstacle="1"/>
+      <level name="15" ysize="9" xsize="7" gtime="60" galign="5" empty="4" obstacle="3"/>
+      <level name="16" ysize="9" xsize="7" gtime="60" galign="5" empty="2" obstacle="5"/>
+      
+      <level name="17" ysize="10" xsize="7" gtime="60" galign="5" empty="12" obstacle="0"/>
+      <level name="18" ysize="10" xsize="7" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="10" xsize="7" gtime="60" galign="5" empty="8" obstacle="4"/>
+      <level name="20" ysize="10" xsize="7" gtime="60" galign="5" empty="6" obstacle="6"/>
+      
+      <level name="21" ysize="10" xsize="7" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="10" xsize="7" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="10" xsize="7" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="10" xsize="7" gtime="60" galign="5" empty="2" obstacle="6"/>
+    </rank>
+    <rank name="一般任务" bg="2" gskin="fish">
+      <level name="1" ysize="9" xsize="8" gtime="60" galign="5" empty="12" obstacle="0"/>
+      <level name="2" ysize="9" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="9" xsize="8" gtime="60" galign="5" empty="8" obstacle="4"/>
+      <level name="4" ysize="9" xsize="8" gtime="60" galign="5" empty="6" obstacle="6"/>
+      
+      <level name="5" ysize="9" xsize="8" gtime="60" galign="5" empty="6" obstacle="0"/>
+      <level name="6" ysize="9" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="9" xsize="8" gtime="60" galign="5" empty="3" obstacle="3"/>
+      <level name="8" ysize="9" xsize="8" gtime="60" galign="5" empty="0" obstacle="6"/>
+      
+      <level name="9" ysize="10" xsize="8" gtime="60" galign="5" empty="16" obstacle="0"/>
+      <level name="10" ysize="10" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="11" ysize="10" xsize="8" gtime="60" galign="5" empty="12" obstacle="4"/>
+      <level name="12" ysize="10" xsize="8" gtime="60" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="13" ysize="10" xsize="8" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="14" ysize="10" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="15" ysize="10" xsize="8" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="16" ysize="10" xsize="8" gtime="60" galign="5" empty="2" obstacle="6"/>
+      
+      <level name="17" ysize="11" xsize="8" gtime="60" galign="5" empty="16" obstacle="0"/>
+      <level name="18" ysize="11" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="11" xsize="8" gtime="60" galign="5" empty="12" obstacle="4"/>
+      <level name="20" ysize="11" xsize="8" gtime="60" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="21" ysize="11" xsize="8" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="11" xsize="8" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="11" xsize="8" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="11" xsize="8" gtime="60" galign="5" empty="2" obstacle="6"/>
+    </rank>
+    <rank name="困难任务" bg="3" gskin="pet">
+      <level name="1" ysize="10" xsize="9" gtime="60" galign="5" empty="16" obstacle="0"/>
+      <level name="2" ysize="10" xsize="9" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="10" xsize="9" gtime="60" galign="5" empty="12" obstacle="4"/>
+      <level name="4" ysize="10" xsize="9" gtime="60" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="5" ysize="10" xsize="9" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="6" ysize="10" xsize="9" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="10" xsize="9" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="8" ysize="10" xsize="9" gtime="60" galign="5" empty="2" obstacle="6"/>
+      
+      <level name="9" ysize="11" xsize="9" gtime="60" galign="5" empty="15" obstacle="0"/>
+      <level name="10" ysize="11" xsize="9" gtime="60" galign="5" empty="1" obstacle="0"/>
+      <level name="11" ysize="11" xsize="9" gtime="60" galign="5" empty="10" obstacle="5"/>
+      <level name="12" ysize="11" xsize="9" gtime="60" galign="5" empty="8" obstacle="7"/>
+      
+      <level name="13" ysize="11" xsize="9" gtime="60" galign="5" empty="9" obstacle="0"/>
+      <level name="14" ysize="11" xsize="9" gtime="60" galign="5" empty="0" obstacle="1"/>
+      <level name="15" ysize="11" xsize="9" gtime="60" galign="5" empty="5" obstacle="4"/>
+      <level name="16" ysize="11" xsize="9" gtime="60" galign="5" empty="3" obstacle="6"/>
+      
+      <level name="17" ysize="12" xsize="9" gtime="60" galign="5" empty="16" obstacle="0"/>
+      <level name="18" ysize="12" xsize="9" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="12" xsize="9" gtime="60" galign="5" empty="10" obstacle="6"/>
+      <level name="20" ysize="12" xsize="9" gtime="60" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="21" ysize="12" xsize="9" gtime="60" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="12" xsize="9" gtime="60" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="12" xsize="9" gtime="60" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="12" xsize="9" gtime="60" galign="5" empty="2" obstacle="6"/>
+    </rank>
+  </mode>
+  <mode name="计时任务">
+    <rank name="小学任务" bg="1" gskin="fruit">
+      <level name="1" ysize="8" xsize="7" gtime="30" galign="5" empty="10" obstacle="0"/>
+      <level name="2" ysize="8" xsize="7" gtime="30" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="8" xsize="7" gtime="30" galign="5" empty="8" obstacle="2"/>
+      <level name="4" ysize="8" xsize="7" gtime="30" galign="5" empty="6" obstacle="4"/>
+      
+      <level name="5" ysize="8" xsize="7" gtime="20" galign="5" empty="6" obstacle="0"/>
+      <level name="6" ysize="8" xsize="7" gtime="25" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="8" xsize="7" gtime="25" galign="5" empty="4" obstacle="2"/>
+      <level name="8" ysize="8" xsize="7" gtime="30" galign="5" empty="2" obstacle="4"/>
+      
+      <level name="9" ysize="9" xsize="7" gtime="20" galign="5" empty="11" obstacle="0"/>
+      <level name="10" ysize="9" xsize="7" gtime="25" galign="5" empty="1" obstacle="0"/>
+      <level name="11" ysize="9" xsize="7" gtime="25" galign="5" empty="8" obstacle="3"/>
+      <level name="12" ysize="9" xsize="7" gtime="30" galign="5" empty="6" obstacle="5"/>
+      
+      <level name="13" ysize="9" xsize="7" gtime="20" galign="5" empty="7" obstacle="0"/>
+      <level name="14" ysize="9" xsize="7" gtime="25" galign="5" empty="0" obstacle="1"/>
+      <level name="15" ysize="9" xsize="7" gtime="25" galign="5" empty="4" obstacle="3"/>
+      <level name="16" ysize="9" xsize="7" gtime="30" galign="5" empty="2" obstacle="5"/>
+      
+      <level name="17" ysize="10" xsize="7" gtime="20" galign="5" empty="12" obstacle="0"/>
+      <level name="18" ysize="10" xsize="7" gtime="25" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="10" xsize="7" gtime="25" galign="5" empty="8" obstacle="4"/>
+      <level name="20" ysize="10" xsize="7" gtime="30" galign="5" empty="6" obstacle="6"/>
+      
+      <level name="21" ysize="10" xsize="7" gtime="20" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="10" xsize="7" gtime="25" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="10" xsize="7" gtime="25" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="10" xsize="7" gtime="30" galign="5" empty="2" obstacle="6"/>
+    </rank>
+    <rank name="初中任务" bg="3" gskin="pet">
+      <level name="1" ysize="9" xsize="8" gtime="30" galign="5" empty="12" obstacle="0"/>
+      <level name="2" ysize="9" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="9" xsize="8" gtime="35" galign="5" empty="8" obstacle="4"/>
+      <level name="4" ysize="9" xsize="8" gtime="40" galign="5" empty="6" obstacle="6"/>
+      
+      <level name="5" ysize="9" xsize="8" gtime="30" galign="5" empty="6" obstacle="0"/>
+      <level name="6" ysize="9" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="9" xsize="8" gtime="35" galign="5" empty="3" obstacle="3"/>
+      <level name="8" ysize="9" xsize="8" gtime="40" galign="5" empty="0" obstacle="6"/>
+      
+      <level name="9" ysize="10" xsize="8" gtime="30" galign="5" empty="16" obstacle="0"/>
+      <level name="10" ysize="10" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="11" ysize="10" xsize="8" gtime="35" galign="5" empty="12" obstacle="4"/>
+      <level name="12" ysize="10" xsize="8" gtime="40" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="13" ysize="10" xsize="8" gtime="30" galign="5" empty="8" obstacle="0"/>
+      <level name="14" ysize="10" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="15" ysize="10" xsize="8" gtime="35" galign="5" empty="4" obstacle="4"/>
+      <level name="16" ysize="10" xsize="8" gtime="40" galign="5" empty="2" obstacle="6"/>
+      
+      <level name="17" ysize="11" xsize="8" gtime="30" galign="5" empty="16" obstacle="0"/>
+      <level name="18" ysize="11" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="11" xsize="8" gtime="35" galign="5" empty="12" obstacle="4"/>
+      <level name="20" ysize="11" xsize="8" gtime="40" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="21" ysize="11" xsize="8" gtime="30" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="11" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="11" xsize="8" gtime="35" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="11" xsize="8" gtime="40" galign="5" empty="2" obstacle="6"/>
+    </rank>
+    <rank name="高中任务" bg="2" gskin="fish">
+      <level name="1" ysize="10" xsize="9" gtime="40" galign="5" empty="16" obstacle="0"/>
+      <level name="2" ysize="10" xsize="9" gtime="45" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="10" xsize="9" gtime="45" galign="5" empty="12" obstacle="4"/>
+      <level name="4" ysize="10" xsize="9" gtime="50" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="5" ysize="10" xsize="9" gtime="40" galign="5" empty="8" obstacle="0"/>
+      <level name="6" ysize="10" xsize="9" gtime="45" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="10" xsize="9" gtime="45" galign="5" empty="4" obstacle="4"/>
+      <level name="8" ysize="10" xsize="9" gtime="50" galign="5" empty="2" obstacle="6"/>
+      
+      <level name="9" ysize="11" xsize="9" gtime="40" galign="5" empty="15" obstacle="0"/>
+      <level name="10" ysize="11" xsize="9" gtime="45" galign="5" empty="1" obstacle="0"/>
+      <level name="11" ysize="11" xsize="9" gtime="45" galign="5" empty="10" obstacle="5"/>
+      <level name="12" ysize="11" xsize="9" gtime="50" galign="5" empty="8" obstacle="7"/>
+      
+      <level name="13" ysize="11" xsize="9" gtime="40" galign="5" empty="9" obstacle="0"/>
+      <level name="14" ysize="11" xsize="9" gtime="45" galign="5" empty="0" obstacle="1"/>
+      <level name="15" ysize="11" xsize="9" gtime="45" galign="5" empty="5" obstacle="4"/>
+      <level name="16" ysize="11" xsize="9" gtime="50" galign="5" empty="3" obstacle="6"/>
+      
+      <level name="17" ysize="12" xsize="9" gtime="40" galign="5" empty="16" obstacle="0"/>
+      <level name="18" ysize="12" xsize="9" gtime="45" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="12" xsize="9" gtime="45" galign="5" empty="10" obstacle="6"/>
+      <level name="20" ysize="12" xsize="9" gtime="50" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="21" ysize="12" xsize="9" gtime="40" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="12" xsize="9" gtime="45" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="12" xsize="9" gtime="45" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="12" xsize="9" gtime="50" galign="5" empty="2" obstacle="6"/>
+    </rank>
+  </mode>
+  <mode name="星星模式">
+    <rank name="星星入门" bg="0" gskin="classic">
+      <level name="1" ysize="8" xsize="7" gtime="30" galign="5" empty="10" obstacle="0"/>
+      <level name="2" ysize="8" xsize="7" gtime="30" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="8" xsize="7" gtime="30" galign="5" empty="8" obstacle="2"/>
+      <level name="4" ysize="8" xsize="7" gtime="30" galign="5" empty="6" obstacle="4"/>
+      
+      <level name="5" ysize="8" xsize="7" gtime="20" galign="5" empty="6" obstacle="0"/>
+      <level name="6" ysize="8" xsize="7" gtime="25" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="8" xsize="7" gtime="25" galign="5" empty="4" obstacle="2"/>
+      <level name="8" ysize="8" xsize="7" gtime="30" galign="5" empty="2" obstacle="4"/>
+      
+      <level name="9" ysize="9" xsize="7" gtime="20" galign="5" empty="11" obstacle="0"/>
+      <level name="10" ysize="9" xsize="7" gtime="25" galign="5" empty="1" obstacle="0"/>
+      <level name="11" ysize="9" xsize="7" gtime="25" galign="5" empty="8" obstacle="3"/>
+      <level name="12" ysize="9" xsize="7" gtime="30" galign="5" empty="6" obstacle="5"/>
+      
+      <level name="13" ysize="9" xsize="7" gtime="20" galign="5" empty="7" obstacle="0"/>
+      <level name="14" ysize="9" xsize="7" gtime="25" galign="5" empty="0" obstacle="1"/>
+      <level name="15" ysize="9" xsize="7" gtime="25" galign="5" empty="4" obstacle="3"/>
+      <level name="16" ysize="9" xsize="7" gtime="30" galign="5" empty="2" obstacle="5"/>
+      
+      <level name="17" ysize="10" xsize="7" gtime="20" galign="5" empty="12" obstacle="0"/>
+      <level name="18" ysize="10" xsize="7" gtime="25" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="10" xsize="7" gtime="25" galign="5" empty="8" obstacle="4"/>
+      <level name="20" ysize="10" xsize="7" gtime="30" galign="5" empty="6" obstacle="6"/>
+      
+      <level name="21" ysize="10" xsize="7" gtime="20" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="10" xsize="7" gtime="25" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="10" xsize="7" gtime="25" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="10" xsize="7" gtime="30" galign="5" empty="2" obstacle="6"/>
+    </rank>
+    <rank name="星星升级" bg="3" gskin="pet">
+      <level name="1" ysize="9" xsize="8" gtime="30" galign="5" empty="12" obstacle="0"/>
+      <level name="2" ysize="9" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="9" xsize="8" gtime="35" galign="5" empty="8" obstacle="4"/>
+      <level name="4" ysize="9" xsize="8" gtime="40" galign="5" empty="6" obstacle="6"/>
+      
+      <level name="5" ysize="9" xsize="8" gtime="30" galign="5" empty="6" obstacle="0"/>
+      <level name="6" ysize="9" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="9" xsize="8" gtime="35" galign="5" empty="3" obstacle="3"/>
+      <level name="8" ysize="9" xsize="8" gtime="40" galign="5" empty="0" obstacle="6"/>
+      
+      <level name="9" ysize="10" xsize="8" gtime="30" galign="5" empty="16" obstacle="0"/>
+      <level name="10" ysize="10" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="11" ysize="10" xsize="8" gtime="35" galign="5" empty="12" obstacle="4"/>
+      <level name="12" ysize="10" xsize="8" gtime="40" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="13" ysize="10" xsize="8" gtime="30" galign="5" empty="8" obstacle="0"/>
+      <level name="14" ysize="10" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="15" ysize="10" xsize="8" gtime="35" galign="5" empty="4" obstacle="4"/>
+      <level name="16" ysize="10" xsize="8" gtime="40" galign="5" empty="2" obstacle="6"/>
+      
+      <level name="17" ysize="11" xsize="8" gtime="30" galign="5" empty="16" obstacle="0"/>
+      <level name="18" ysize="11" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="11" xsize="8" gtime="35" galign="5" empty="12" obstacle="4"/>
+      <level name="20" ysize="11" xsize="8" gtime="40" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="21" ysize="11" xsize="8" gtime="30" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="11" xsize="8" gtime="35" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="11" xsize="8" gtime="35" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="11" xsize="8" gtime="40" galign="5" empty="2" obstacle="6"/>
+    </rank>
+    <rank name="星星高手" bg="1" gskin="fruit">
+      <level name="1" ysize="10" xsize="9" gtime="40" galign="5" empty="16" obstacle="0"/>
+      <level name="2" ysize="10" xsize="9" gtime="45" galign="5" empty="0" obstacle="0"/>
+      <level name="3" ysize="10" xsize="9" gtime="45" galign="5" empty="12" obstacle="4"/>
+      <level name="4" ysize="10" xsize="9" gtime="50" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="5" ysize="10" xsize="9" gtime="40" galign="5" empty="8" obstacle="0"/>
+      <level name="6" ysize="10" xsize="9" gtime="45" galign="5" empty="0" obstacle="0"/>
+      <level name="7" ysize="10" xsize="9" gtime="45" galign="5" empty="4" obstacle="4"/>
+      <level name="8" ysize="10" xsize="9" gtime="50" galign="5" empty="2" obstacle="6"/>
+      
+      <level name="9" ysize="11" xsize="9" gtime="40" galign="5" empty="15" obstacle="0"/>
+      <level name="10" ysize="11" xsize="9" gtime="45" galign="5" empty="1" obstacle="0"/>
+      <level name="11" ysize="11" xsize="9" gtime="45" galign="5" empty="10" obstacle="5"/>
+      <level name="12" ysize="11" xsize="9" gtime="50" galign="5" empty="8" obstacle="7"/>
+      
+      <level name="13" ysize="11" xsize="9" gtime="40" galign="5" empty="9" obstacle="0"/>
+      <level name="14" ysize="11" xsize="9" gtime="45" galign="5" empty="0" obstacle="1"/>
+      <level name="15" ysize="11" xsize="9" gtime="45" galign="5" empty="5" obstacle="4"/>
+      <level name="16" ysize="11" xsize="9" gtime="50" galign="5" empty="3" obstacle="6"/>
+      
+      <level name="17" ysize="12" xsize="9" gtime="40" galign="5" empty="16" obstacle="0"/>
+      <level name="18" ysize="12" xsize="9" gtime="45" galign="5" empty="0" obstacle="0"/>
+      <level name="19" ysize="12" xsize="9" gtime="45" galign="5" empty="10" obstacle="6"/>
+      <level name="20" ysize="12" xsize="9" gtime="50" galign="5" empty="8" obstacle="8"/>
+      
+      <level name="21" ysize="12" xsize="9" gtime="40" galign="5" empty="8" obstacle="0"/>
+      <level name="22" ysize="12" xsize="9" gtime="45" galign="5" empty="0" obstacle="0"/>
+      <level name="23" ysize="12" xsize="9" gtime="45" galign="5" empty="4" obstacle="4"/>
+      <level name="24" ysize="12" xsize="9" gtime="50" galign="5" empty="2" obstacle="6"/>
+    </rank>
+  </mode>
+</cfg>

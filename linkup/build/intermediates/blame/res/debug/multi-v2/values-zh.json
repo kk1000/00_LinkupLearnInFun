@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+            "map": [
+                {
+                    "source": "C:\\DiskK\\Dev\\zAndroid_Dev\\Git\\LinkupLearnInFun\\linkup\\src\\main\\res\\values-zh\\xiaomi_strings.xml",
+                    "from": {
+                        "startLines": "7,6,8,9,4,5,3",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "668,588,750,837,267,422,170",
+                        "endColumns": "80,78,85,85,153,164,95",
+                        "endOffsets": "744,662,831,918,416,582,261"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,182,261,343,425,571,728",
+                        "endColumns": "76,78,81,81,145,156,91",
+                        "endOffsets": "177,256,338,420,566,723,815"
+                    }
+                }
+            ]
+        }
+    ]
+}

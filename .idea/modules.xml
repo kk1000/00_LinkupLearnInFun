@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinkupLearnInFun.iml" filepath="$PROJECT_DIR$/LinkupLearnInFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkup/linkup.iml" filepath="$PROJECT_DIR$/linkup/linkup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkupCore/linkupCore.iml" filepath="$PROJECT_DIR$/linkupCore/linkupCore.iml" />
+    </modules>
+  </component>
+</project>
