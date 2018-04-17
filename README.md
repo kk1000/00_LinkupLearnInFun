@@ -1,33 +1,38 @@
+LinkupLearnInFun 
+======================
+Forked from csuyzb/AndroidLinkup (https://github.com/csuyzb/AndroidLinkup) but I make it to be built in Android Studio 3.1.1 Build #AI-173.4697961, built on April 3, 2018 JRE: 1.8.0_152-release-1024-b02 amd64 JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o Windows 7 6.1.
+I am a new learner in learning dev in Android.
+
 AndroidLinkup
 =============
-ĞİÏĞÁ¬Á¬¿´
+ä¼‘é—²è¿è¿çœ‹
 
 The most interesting linkup game for android.
-×îºÃÍæµÄAndroid¿ªÔ´Á¬Á¬¿´
+æœ€å¥½ç©çš„Androidå¼€æºè¿è¿çœ‹
 
-ÏîÄ¿Ö÷Ò³:http://xxllk.aliapp.com
+é¡¹ç›®ä¸»é¡µ:http://xxllk.aliapp.com
 
-Ğ¡Ã×ÉÌµê:http://app.xiaomi.com/detail/61473
+å°ç±³å•†åº—:http://app.xiaomi.com/detail/61473
 
 
-½ØÍ¼
+æˆªå›¾
 -------------
 
 ![welcome](https://github.com/csuyzb/AndroidLinkup/raw/master/screenshots/welcome_180.jpg)![classic](https://github.com/csuyzb/AndroidLinkup/raw/master/screenshots/pet_180.jpg)![time](https://github.com/csuyzb/AndroidLinkup/raw/master/screenshots/star_180.jpg)![task](https://github.com/csuyzb/AndroidLinkup/raw/master/screenshots/top_180.jpg)
 
 
-¼ò½é
+ç®€ä»‹
 -------------
 
-ĞİÏĞÁ¬Á¬¿´ÊÇÒ»¿îÃâ·ÑÎŞ¹ã¸æµÄ¾­µäÒæÖÇĞ¡ÓÎÏ·£¬ÇåĞÂÃÀ¹ÛµÄ½çÃæ£¬Á÷³©µÄ²Ù×÷£¬ìÅÀöµÄ¶¯»­£¬Ò»¶¨ÈÃÄã°®²»ÊÍÊÖ¡£
-ÓÎÏ·ÌØÉ«£º
-1.´³¹Ø¡¢¼ÆÊ±¡¢ÈÎÎñµÈÎåÖÖÓÎÏ·Ä£Ê½
-2.³¬¹ı400¸ö¾«ĞÄÉè¼Æ²»Í¬ÄÑ¶ÈµÄ¹Ø¿¨
-3.¾­µä£¬Ë®¹û£¬¶¯Îï£¬³èÎïºÍÅ©³¡Á¬Á¬¿´
-4.»ªÀöµÄÒôĞ§+ìÅÀöµÄ¶¯»­
-5.ÍøÂçÅÅĞĞ°ñ£¬Óë¸ßÊÖÒ»Æğ±ÈÆ´
-6.¶Ô¸ßÊÖµãÔŞ+µãÔŞÌáĞÑ
-7.³É¾ÍÒ»¼ü·ÖÏíµ½QQ¿Õ¼ä£¬ĞÂÀËÎ¢²©»òÎ¢ĞÅÅóÓÑÈ¦
-8.ËÑ¼¯×êÊ¯ºÍ½ğ±Ò£¬ÈÃÓÎÏ·¸üÓĞÈ¤Î¶
+ä¼‘é—²è¿è¿çœ‹æ˜¯ä¸€æ¬¾å…è´¹æ— å¹¿å‘Šçš„ç»å…¸ç›Šæ™ºå°æ¸¸æˆï¼Œæ¸…æ–°ç¾è§‚çš„ç•Œé¢ï¼Œæµç•…çš„æ“ä½œï¼Œç‚«ä¸½çš„åŠ¨ç”»ï¼Œä¸€å®šè®©ä½ çˆ±ä¸é‡Šæ‰‹ã€‚
+æ¸¸æˆç‰¹è‰²ï¼š
+1.é—¯å…³ã€è®¡æ—¶ã€ä»»åŠ¡ç­‰äº”ç§æ¸¸æˆæ¨¡å¼
+2.è¶…è¿‡400ä¸ªç²¾å¿ƒè®¾è®¡ä¸åŒéš¾åº¦çš„å…³å¡
+3.ç»å…¸ï¼Œæ°´æœï¼ŒåŠ¨ç‰©ï¼Œå® ç‰©å’Œå†œåœºè¿è¿çœ‹
+4.åä¸½çš„éŸ³æ•ˆ+ç‚«ä¸½çš„åŠ¨ç”»
+5.ç½‘ç»œæ’è¡Œæ¦œï¼Œä¸é«˜æ‰‹ä¸€èµ·æ¯”æ‹¼
+6.å¯¹é«˜æ‰‹ç‚¹èµ+ç‚¹èµæé†’
+7.æˆå°±ä¸€é”®åˆ†äº«åˆ°QQç©ºé—´ï¼Œæ–°æµªå¾®åšæˆ–å¾®ä¿¡æœ‹å‹åœˆ
+8.æœé›†é’»çŸ³å’Œé‡‘å¸ï¼Œè®©æ¸¸æˆæ›´æœ‰è¶£å‘³
 
 
